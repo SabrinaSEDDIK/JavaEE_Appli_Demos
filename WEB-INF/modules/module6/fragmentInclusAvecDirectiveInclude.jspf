@@ -1,0 +1,3 @@
+<h3>Voici la valeur lue dans le fichier fragment InclusAvecDirectiveInclude.jspf</h3>
+
+<p>variableUtiliseeDansFragment=<%=variableUtiliseeDansFragment %></p>
